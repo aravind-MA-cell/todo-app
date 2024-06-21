@@ -1,0 +1,32 @@
+.todo-add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+}
+.todo-input{
+    border-radius: 50px;
+    background: #d4d9e2;
+    border: none;
+    outline: none;
+    width: 576px;
+    height: 80px;
+    padding-left: 35px;
+    font-size: 20px;
+}
+
+.todo-add-btn{
+    border: none;
+    border-radius: 50px;
+    background: #ff6739;
+    width: 187px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -100px;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 600;
+    cursor: pointer;
+}

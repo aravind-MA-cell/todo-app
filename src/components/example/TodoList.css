@@ -1,0 +1,39 @@
+.todoitems{
+    margin-top: 30px;
+}
+
+button{
+    background-color:#ff6739;
+    border-style: none;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+.Text-inner{
+    background-color: rgb(214, 221, 228);
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 11px;
+
+}
+
+
+.todoitems-text{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 70px;
+    padding-left: 16px;
+    color: #404040;
+    font-size: 22px;
+    list-style-type: none;
+}
+li{
+    display: flex;
+    margin-top: 10px;
+}
